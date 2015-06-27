@@ -1,9 +1,9 @@
 Random
 ==============
 
-Pr·ctica del mÛdulo 5
+Pr√°ctica del m√≥dulo 5
 --------------
 
 *Desarrollo de servicios en la nube con HTML5, Javascript y node.js*
 
-Alumno: Adri·n EfrÈn JimÈnez Vega
+Alumno: Adri√°n Efr√©Jim√©z Vega
